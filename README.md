@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://dce0qyjkutl4h.cloudfront.net/wp-content/uploads/2020/09/Flutter-App-development.jpg" alt="Banner">
+  <img src="![image](https://github.com/yishakk/yishakk/assets/70431682/3e170863-f967-4da4-b392-665642c94938)" alt="Banner">
 </p>
 
 ## About Me
