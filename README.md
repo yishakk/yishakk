@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/DipHire/WallpaperWalaApp/master/banner%20(2).png?token=GHSAT0AAAAAABVZ5UFW4VJMNZKXBKHUDOVWYXSDVZA" alt="Banner">
+  <img src="https://dce0qyjkutl4h.cloudfront.net/wp-content/uploads/2020/09/Flutter-App-development.jpg" alt="Banner">
 </p>
 
 ## About Me
