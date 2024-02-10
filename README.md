@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://yishakk.github.io/static/media/smiling.4bf357adee2af42fb73f.jpg" alt="Banner">
+  <img src="https://raw.githubusercontent.com/DipHire/WallpaperWalaApp/master/banner%20(2).png?token=GHSAT0AAAAAABVZ5UFW4VJMNZKXBKHUDOVWYXSDVZA" alt="Banner">
 </p>
 
 ## About Me
