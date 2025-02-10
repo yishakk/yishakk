@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/yishakk/yishakk.github.io/blob/main/banner.jpg?raw=true" alt="Banner">
+  <img src="https://github.com/yishakk/yishakk.github.io/blob/main/bcover_git.jpg?raw=true" alt="Banner">
 </p>
 
 ## About Me
