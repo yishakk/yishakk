@@ -30,8 +30,8 @@
 ## Skills
 
 ### Front-End Development
-- React <img align="left" alt="icon" width="20px" src="https://github.com/user-attachments/assets/81803828-c9cc-451e-b22f-f165047c5b62" style="padding-right:10px;" />
-- HTML5 🌐
+- React 🌐
+- HTML5 🏞
 - CSS3 🎨
 - JavaScript 💻
 - Bootstrap 🅱️
