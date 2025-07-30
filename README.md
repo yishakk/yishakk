@@ -1,4 +1,4 @@
-# Hey, Issac here
+# Hey, I'm here
 
 - 🌱 I’m constantly learning and improving my skills 
 ### Languages and Tools:
